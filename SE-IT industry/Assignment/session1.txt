@@ -1,0 +1,57 @@
+Q1.Name 5 IT job roles and write one line about what each role does.
+
+Software Developer: Designs, writes, and maintains the code that powers software applications.
+
+Quality Assurance (QA) Tester: Evaluates software to find bugs and ensures it meets performance and quality standards before release.
+
+UI/UX Designer: Designs the visual layout and user experience to ensure an application is intuitive, accessible, and visually appealing.
+
+Data Analyst: Gathers, cleans, and analyzes large datasets to help businesses make data-driven decisions.
+
+DevOps Engineer: Bridges the gap between development and operations by automating deployment pipelines and managing cloud infrastructure.
+
+Q2.List 3 product companies and 3 service companies with one example of work each does.
+
+Product Companies (Build and sell their own software/hardware):
+
+	Microsoft: Develops and sells the Windows operating system and Microsoft Office suite.
+
+	Adobe: Creates and licenses creative software products like Photoshop and Illustrator.
+
+	Apple: Designs and manufactures consumer electronics like the iPhone and Mac computers.
+
+Service Companies (Provide IT services, consulting, or custom software for other businesses):
+
+	TCS (Tata Consultancy Services): Provides IT infrastructure management and custom software development for global banks and retail chains.
+
+	Infosys: Offers business consulting, system integration, and cloud migration services to enterprise clients.
+
+	Wipro: Delivers IT outsourcing, cybersecurity services, and enterprise application support.
+
+Q3.Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+
+GitHub (No full form; based on "Git"): A cloud-based platform used by developers for version control and collaborative coding.
+
+Slack (Searchable Log of All Conversation and Knowledge): A business messaging and collaboration app used for real-time team communication.
+
+Jira (No English full form; derived from "Gojira/Godzilla"): An issue-tracking and project management tool widely used by Agile development teams.
+
+IDE (Integrated Development Environment): A software application that provides developers with tools like a code editor, debugger, and compiler in one single interface.
+
+API (Application Programming Interface): A set of rules and protocols that allows two different software applications to communicate and share data with each other.
+
+Q4.Name any 5 programming languages and mention one popular use case for each.
+
+ Python: Widely used for Data Science, machine learning, and artificial intelligence.
+
+JavaScript: The industry standard for building interactive front-end user interfaces on websites.
+
+Java: Commonly used for building robust, enterprise-level backend systems and Android mobile applications.
+
+C++: Preferred for resource-intensive applications like 3D game engines and high-frequency trading platforms.
+
+SQL (Structured Query Language): The primary language used for managing, querying, and updating relational databases.
+
+Q5.What is the difference between a developer and a tester? Answer in 2 lines.
+
+A developer is responsible for designing, writing, and building the source code to create a functioning software application. A tester is responsible for running scenarios on that software to identify bugs, crashes, and defects to ensure it meets quality standards before it reaches the end user.
