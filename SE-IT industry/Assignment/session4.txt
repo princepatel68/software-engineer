@@ -1,0 +1,49 @@
+
+Q.1 List all 6 phases of SDLC in order with one line about each.
+
+    SDLC (Software Development Life Cycle)
+
+    Requirement Analysis: Gathering and documenting exactly what the users need the software to do.
+
+    Design: Planning the architecture, user interface, and overall system structure of the software.
+
+    Development (Coding): Writing the actual code to build the software according to the design specifications.
+
+    Testing: Evaluating the software to find and fix bugs, ensuring it meets quality and performance standards.
+ 
+    Deployment: Releasing the finished software to users in a live production environment.
+
+    Maintenance: Providing ongoing support, updates, and bug fixes after the software has been deployed.
+
+Q.2 Write 3 differences between Agile and Waterfall models.
+
+    Approach: Waterfall is a linear, sequential process where one phase must finish before the next begins, while Agile is iterative and works in continuous cycles.
+
+    Flexibility: Waterfall rigidly resists changes once the project scope is set, whereas Agile highly embraces and easily adapts to changes in requirements at any stage.
+
+    Delivery: Waterfall delivers the completely finished product at the very end of the project lifecycle, while Agile delivers small, working pieces of the software frequently throughout the project.
+
+Q.3 Name the 3 main Scrum roles and write one line about the responsibility of each.
+
+    Product Owner: Maximizes the value of the product by prioritizing customer needs and managing the Product Backlog.
+
+    Scrum Master: Facilitates the Agile process, removes roadblocks for the team, and ensures everyone follows Scrum principles.
+
+    Development Team: A self-organizing, cross-functional group of professionals who actually build the product and deliver working software.  
+ 
+Q.4 What is a Sprint in Scrum? Mention its typical duration.
+
+    A Sprint is a short, fixed, and time-boxed period during which a Scrum team focuses on completing a specific set of work to deliver a usable product increment.
+
+         Typical Duration: A sprint typically lasts between 1 to 4 weeks, with 2 weeks being the most common industry standard.    
+
+Q.5 What do these Jira board columns mean: To Do, In Progress, Done, Backlog?
+
+     Backlog: A holding area for all future tasks, features, or bugs that need to be addressed but haven't been scheduled for work yet.
+
+     To Do: Tasks that have been selected from the backlog and are ready for team members to pick up and start working on in the current sprint.
+
+     In Progress: Tasks that team members have actively started and are currently working on.
+
+     Done: Tasks that are 100% completed, tested, and meet the team's agreed-upon "Definition of Done."
+ 

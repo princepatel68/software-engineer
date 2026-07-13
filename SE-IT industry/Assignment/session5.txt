@@ -1,0 +1,63 @@
+
+Q.1 Write the Git command for each: initialize a repo, stage all files, commit with a message, push to remote, pull latest changes.
+
+    Initialize a repo: git init
+
+    Stage all files: git add . (or git add -A)
+
+    Commit with a message: git commit -m "Your commit message here"
+
+    Push to remote: git push origin main (replace 'main' with your branch name if different)
+
+    Pull latest changes: git pull origin main
+
+Q.2 What is the difference between git fetch and git pull? Answer in 2 lines.
+
+    git fetch downloads the latest updates from the remote repository to your local system without altering your current working files.
+
+    git pull goes a step further by performing a fetch and then immediately merging those downloaded changes into your active working branch.
+
+Q.3 Create a new GitHub repository, push any small text file from your local system, and share the repo link.
+
+    As an AI, I cannot create a live GitHub repository for you. However, here are the exact steps and commands you need to complete this task on your own system:
+
+    1. Go to GitHub and create a new, empty repository (e.g., named my-test-repo).
+
+    2. Open your terminal, navigate to your desired folder, and run the following commands:
+
+    echo "Hello World" > test.txt
+
+    git init
+    git add test.txt
+    git commit -m "Initial commit with a small text file"
+    git branch -M main
+    git remote add origin https://github.com/your-username/my-test-repo.git
+    git push -u origin main
+
+    Your Repo Link: https://github.com/your-username/my-test-repo (replace with your actual username and repo name).
+
+
+Q.4 What is the difference between a Fork and a Pull Request? Answer in 2 lines.
+
+    A Fork is a personal, independent copy of someone else's repository created under your own GitHub account so you can freely experiment.
+
+    A Pull Request (PR) is a formal proposal asking the original repository's maintainers to review and merge the changes you've made back into their project.
+
+Q.5 Create a new branch named feature-test, make one commit on it, and merge it back to the main branch. Write the commands you used.
+
+    Branching and Merging Commands To create the branch, make a commit, and merge it back, you would run this sequence of commands:
+
+    # Create and switch to the new branch
+    git checkout -b feature-test 
+
+    # (Make your changes to the files here)
+
+    # Stage and commit the changes on the new branch
+    git add .
+    git commit -m "Add new feature test"
+
+    # Switch back to the main branch
+    git checkout main
+
+    # Merge the feature-test branch into main
+    git merge feature-test

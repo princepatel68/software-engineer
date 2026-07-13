@@ -1,0 +1,49 @@
+
+Q.1 Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP.
+
+    HTTP (Hypertext Transfer Protocol): Used to fetch and transmit web pages and unsecured data over the internet.
+
+    HTTPS (Hypertext Transfer Protocol Secure): Used for secure, encrypted communication and data transfer between a web browser and a website.
+
+    FTP (File Transfer Protocol): Used for directly uploading, downloading, and transferring files between a client and a server on a network.
+
+    SMTP (Simple Mail Transfer Protocol): Used for sending, relaying, and routing email messages from a client to a server or between servers.
+
+Q.2 What is the difference between IPv4 and IPv6? Answer in 2 lines.
+
+    IPv4 uses a 32-bit address format (e.g., 192.168.1.1), limiting the world to about 4.3 billion unique IP addresses.
+
+    IPv6 uses a 128-bit hexadecimal address format (e.g., 2001:0db8:85a3::8a2e:0370:7334), creating a virtually infinite pool of unique IP addresses to accommodate the growing number of                 	connected devices.
+
+Q.3 Run nslookup google.com on your system and write down the IP address you get.
+
+    f you run this in your command prompt or terminal, you will typically get a result showing both an IPv4 and IPv6 address, such as:
+
+    Addresses: 142.250.193.110 (IPv4)
+
+    Addresses: 2607:f8b0:400a:808::200e (IPv6) 
+
+Q.4 What do these HTTP status codes mean: 200, 301, 404, 500, 403?
+
+    200 (OK): The request was successful, and the server delivered the requested web page or data.
+
+    301 (Moved Permanently): The requested URL has been permanently moved to a new location, and the browser is redirected there.
+
+    403 (Forbidden): The server understands the request, but refuses to authorize it because the user does not have the necessary permissions.
+
+    404 (Not Found): The server successfully connected, but the specific page or resource requested does not exist.
+
+    500 (Internal Server Error): A generic error indicating the server encountered an unexpected problem that prevented it from fulfilling the request.
+
+Q.5 Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example.
+
+
+    The Domain Name System (DNS) is structured like an inverted tree. When resolving www.google.com, it reads from right to left (technically
+
+    Root (.): This is the invisible dot at the very end of every domain name. The root servers are the first step in translating a URL to an IP, pointing the query to the correct TLD       	server.
+
+    TLD (Top-Level Domain - .com): The TLD server knows where to find the authoritative servers for all domains ending in .com (commercial entities).
+
+    Domain (google): This is the specific, registered domain name. The authoritative name server for google.com holds the actual IP address records for Google's network.
+
+    Subdomain (www): A subdivision within the main domain. In this case, www specifies the particular server (or cluster of servers) designated to handle web traffic for Google. 
